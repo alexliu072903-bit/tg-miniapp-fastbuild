@@ -1,6 +1,11 @@
+---
+name: tg-miniapp-fastbuild
+description: Deploy a Telegram Mini App to production with BotFather, GitHub, and Railway (React + Vite frontend, Node.js + Express + Telegraf backend, PostgreSQL), including bilingual bot copy and share links. Use when creating, deploying, or debugging a Telegram Mini App or its Railway, webhook, or share-link setup.
+---
+
 # tg-miniapp-fastbuild
 
-A production-ready skill for building and deploying Telegram Mini Apps with Railway + GitHub + BotFather. Based on real-world deployment experience including all the gotchas.
+A step-by-step guide for taking a Telegram Mini App to production with Railway, GitHub, and BotFather. It comes from a real deployment, and the gotchas section lists what went wrong there.
 
 ---
 
