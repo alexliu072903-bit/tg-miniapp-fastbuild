@@ -6,6 +6,10 @@ A deployment guide for Telegram Mini Apps, written as a skill. Follow it step by
 
 It works with Claude Code, Codex, Cursor, and any agent that loads a `SKILL.md`. A developer can also read it as a plain guide.
 
+![Telegram Mini App deployment mechanism from bot setup to verified public link](docs/assets/mechanism.en.svg)
+
+*Mechanism diagram, not a deployment screenshot. Each stage is checked before the path continues to the public Mini App link. The bilingual source is [`docs/mechanism.json`](docs/mechanism.json).*
+
 ## What it covers
 
 - **BotFather**: creating and configuring the bot.

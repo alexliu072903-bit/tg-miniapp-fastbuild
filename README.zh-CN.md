@@ -6,6 +6,10 @@
 
 支持 Claude Code、Codex、Cursor，以及任何能加载 `SKILL.md` 的 Agent。开发者也可以把它当作普通指南来读。
 
+![Telegram Mini App 从 Bot 设置到公开链接验证的部署机制图](docs/assets/mechanism.zh.svg)
+
+*机制说明图，不是部署截图。每一个阶段通过检查后，流程才继续走向公开的 Mini App 链接。双语生成源位于 [`docs/mechanism.json`](docs/mechanism.json)。*
+
 ## 它覆盖什么
 
 - **BotFather**：创建和配置 Bot。
